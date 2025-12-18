@@ -1,1 +1,2 @@
-This is the first of the read me
+This is the first of the read me, it talks about how to commitn files
+
